@@ -1,0 +1,7 @@
+site_name: Tongxin Sun
+nav:
+  - Home: index.md
+  - FullStackOpen: ./FullStackOpen/index.md
+  - Blogs: ./blogs/blog1.md
+theme:
+  name: mkdocs
