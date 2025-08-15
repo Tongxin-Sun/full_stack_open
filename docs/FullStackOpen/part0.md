@@ -19,3 +19,5 @@ Writing HTML amid the code is of course not smart, but for old-school PHP progra
 In traditional web applications, the browser is "dumb". It only fetches HTML data from the server, and all application logic is on the server. A server can be created using JavaSpring, Python Flask or Ruby on Rails to name just a few examples.
 
 ## Running application logic in the browser
+
+By default, Chromium-based browsers are not too good at displaying JSON data. Plugins can be used to handle the formatting. Install, for example, JSONView on Chrome, and reload the page. The data is now nicely formatted.

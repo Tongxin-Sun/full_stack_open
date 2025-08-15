@@ -4,7 +4,7 @@
 
 Tracker for the Full Stack Open Course (https://fullstackopen.com/en/)
 
-- [ ] Part 0: Fundamentals of Web apps [00:51:48]
+- [ ] Part 0: Fundamentals of Web apps [notes](part0.md)
     - a. General info [00:51:46]
     - b. Fundamentals of Web apps [00:00:02]
 - [ ] Part 1: Introduction to React [00:00:00]
